@@ -1,5 +1,5 @@
-# MSG : Movie So Good
-## [팀 프로젝트]
+# [팀 프로젝트] MSG : Movie So Good
+
 ## JSP MVC 모델 2로 구현한 영화 커뮤니티 사이트
 
 
