@@ -6,7 +6,7 @@
 목표 : 모든 기능들을 온전히 자신의 것으로 만들어 능숙한 개발자가 되는 것<br>
 개발 기간 : 2022.01.24 - 2022.04.07<br>
 개발 환경 :<br>
-&nbsp;&nbsp;&nbsp;개발 언어 : HTML5, CSS3, JavaScript, Java8, JSP<br>
+\개발 언어 : HTML5, CSS3, JavaScript, Java8, JSP<br>
 &nbsp;&nbsp;&nbsp;라이브러리 : Bootstrap 3, 5<br>
 &nbsp;&nbsp;&nbsp;웹 서버 : Apache Tomcat v9.0<br>
 &nbsp;&nbsp;&nbsp;개발 도구 : Eclipse 2021-12<br>
